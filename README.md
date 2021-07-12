@@ -215,3 +215,16 @@ To get all user post and the users that they follow, and the user id passed in J
     "userId":"60e7128858a6f5491c3d041d"
 }
 ```
+## Authors
+
+Contributors names and contact info
+
+ex. Tlhogi007 
+
+## Version History
+
+* 0.2
+    * Various bug fixes and optimizations
+    * See [commit change]() or See [release history]()
+* 0.1
+    * Initial Release
